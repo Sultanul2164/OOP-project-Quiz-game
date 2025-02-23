@@ -65,8 +65,11 @@ class QuizGame:
         difficulty_choice = input("Enter difficulty (easy/medium/hard): ").lower()
 
         if difficulty_choice not in self.difficulty_levels:
-            print("Invalid choice! Defaulting to easy.")
-            difficulty_choice = "easy"
+            print("Invalid choice! ")
+            difficulty_choice = input("Enter difficulty (easy/medium/hard): ").lower()
+            
+
+            
 
         questions = self.load_questions(difficulty_choice)
         random.shuffle(questions)
