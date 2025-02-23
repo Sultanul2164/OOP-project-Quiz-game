@@ -1,0 +1,6 @@
+Which gas do plants use for photosynthesis?;Oxygen;Nitrogen;Carbon Dioxide;Hydrogen;Carbon Dioxide;4
+Who painted the Mona Lisa?;Vincent van Gogh;Pablo Picasso;Leonardo da Vinci;Michelangelo;Leonardo da Vinci;5
+What is the largest ocean?;Atlantic;Indian;Arctic;Pacific;Pacific;3
+What is the square root of 81?;7;8;9;10;9;3
+Which country has the most population?;USA;India;China;Brazil;China;4
+What is your name?;A;B;C;D;B;6

@@ -1,0 +1,7 @@
+What is the square root of 289?;15;16;17;18;17;5
+Who developed the theory of relativity?;Isaac Newton;Albert Einstein;Galileo Galilei;Nikola Tesla;Albert Einstein;5
+Which element has the highest melting point?;Gold;Tungsten;Platinum;Titanium;Tungsten;6
+What is the capital of Mongolia?;Astana;Ulaanbaatar;Hanoi;Tashkent;Ulaanbaatar;7
+Which programming language is known for its use in AI?;C++;Python;Java;Ruby;Python;5
+What is the hardest natural substance on Earth?;Steel;Diamond;Graphene;Quartz;Diamond;6
+Which planet has the most moons?;Earth;Mars;Jupiter;Saturn;Saturn;5

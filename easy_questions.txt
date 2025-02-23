@@ -1,0 +1,5 @@
+What is 2 + 2?;2;3;4;5;4
+Which planet is known as the Red Planet?;Earth;Mars;Jupiter;Venus;Mars;3
+What is the capital of France?;Berlin;Madrid;Paris;Rome;Paris;2
+What is the capital of Bangladesh?;Delhi;Dhaka;Dubai;Baghdad;Dhaka;2
+Which animal is known as the "King of the Jungle"?;Elephant;Tiger;Lion;Gorilla;Lion;3
